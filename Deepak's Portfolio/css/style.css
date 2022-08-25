@@ -1,4 +1,5 @@
 /* ******************************* HOME SECTION ******************************** */
+
 body{
     font-family: "Fira Mono";
 }
@@ -87,7 +88,6 @@ h2{
      60% { transform: rotate( 0.0deg) }  
     100% { transform: rotate( 0.0deg) }
   }
-
 
 /* ******************************* ABOUT SECTION ******************************** */
 #about{
@@ -253,21 +253,7 @@ h2{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* ******************** FOR MOBILE RESPONSIVENESS ******************* */
 @media (max-width:995px) {
     .deepak-profile{
         position: relative;
